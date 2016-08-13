@@ -1,0 +1,18 @@
+Images Useds:
+
+myButtonImage - http://www.freepik.com/free-photo/cristiano-ronaldo---real-madrid-la-liga_612113.htm#term=png&page=2&position=7
+
+mourinho - http://www.freepik.com/free-photo/jose-mourinho---football-managers_566583.htm#term=png&page=3&position=19
+
+vertonghen1 - http://www.freepik.com/free-photo/jan-vertonghen---tottenham-premier-league_612104.htm#term=png&page=3&position=26
+
+References:
+Xamarin, 2016 (no date) Start an activity. Available at: https://developer.xamarin.com/recipes/android/fundamentals/activity/start_an_activity/ (Accessed: 13 August 2016).
+
+Xamarin, 2016 (no date) Create an ImageButton. Available at: https://developer.xamarin.com/recipes/android/controls/imagebutton/create_an_imagebutton/ (Accessed: 13 August 2016).
+
+Xamarin, 2016 (no date) Custom button. Available at: https://developer.xamarin.com/guides/android/user_interface/form_elements/custom_button/ (Accessed: 13 August 2016).
+
+Xamarin, 2016 (no date) CardView. Available at: https://developer.xamarin.com/guides/android/user_interface/cardview/ (Accessed: 13 August 2016).
+
+Xamarin, 2016 (no date) Grid view. Available at: https://developer.xamarin.com/guides/android/user_interface/grid_view/ (Accessed: 13 August 2016).
