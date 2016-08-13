@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ImageView
+        android:src="@drawable/mourinho"
+        android:layout_width="match_parent"
+        android:layout_height="128.5dp"
+        android:id="@+id/imageView1" />
+    <TextView
+        android:text="Mourinho aiming for top spot"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="match_parent"
+        android:layout_height="33.0dp"
+        android:id="@+id/textView1" />
+    <TextView
+        android:text="Newly appointed Manchester United manager Jose Mourinho hasn't avoided reporters questions about his side's expectations this year stating that they want to win the league. This is music to the ears of Manchester United fans who recently haven't had such ambitious managers with the likes of David Moyes and Dutchman Louis Van Gaal. Mourinho has bolstered the Manchester United Squad with additions Paul Pogba from Juventus, Zlatan Ibrahimovic from PSG and Henrikh Mkhitarayan from Broussia Dortmund."
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_width="match_parent"
+        android:layout_height="246.5dp"
+        android:id="@+id/textView2"
+        android:layout_marginLeft="0.0dp" />
+</LinearLayout>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ImageView
+        android:src="@drawable/mybuttonimage"
+        android:layout_width="match_parent"
+        android:layout_height="128.5dp"
+        android:id="@+id/imageView1" />
+    <TextView
+        android:text="Cristiano Ronaldo favourite for major trophy"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="match_parent"
+        android:layout_height="33.0dp"
+        android:id="@+id/textView1" />
+    <TextView
+        android:text="Real Madrid and Portugese star man Cristiano Ronaldo has been set out by pundits as the clear front runner to win the upcoming illustrious Ballon d'Or. Fresh off winning the European Championships with Portugal Ronaldo has now added a 3rd Trophy to his cabinet this year along with the Champions League and the UEFA Super Cup. Those sought to be contenders for the award are Ronaldo's fierce rivals Neymar and Lionel Messi, however it seems all but sewn up for the Portugese Captain"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_width="match_parent"
+        android:layout_height="246.5dp"
+        android:id="@+id/textView2"
+        android:layout_marginLeft="0.0dp" />
+</LinearLayout>
